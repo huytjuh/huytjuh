@@ -2,6 +2,10 @@
 
 I am a Data Scientist with a background in Econometrics and Operations Research. Specialized in Predictive Modeling, Causal Inference, and Optimization methods. Professional experience in all Machine Learning sub-discplines, including NLP, Computer Vision, and Recommender Systems. Committed to consistency and transparancy, dedicated to continuous improvements and excited for new challenges
 
+### Recent Projects
+
+### Featured Projects
+
 <!--
 **huytjuh/huytjuh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
