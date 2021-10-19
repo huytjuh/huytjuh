@@ -25,12 +25,18 @@ Developed an advanced Gaussian Mixture Model from scratch by generating samples 
 **Language:** Python\
 **Date:** Q4 2020
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EOLtaWN04PsqL7DaZ_VP7viklTJR8pGF?usp=sharing)
+
 #### **General Framework of Constructing Hybrid Time-Series Models combining both Parametric and Machine Learning Models incl. RF, SVM, LSTM, (S)ARIMA**
 Created a general framework of how to construct hybrid models making full use of linear and non-linear models applied on a multiple time-series dataset. Key concepts such as outlier detection, correlation matrices and imputing missing datapoints are also discussed here.\
 **Language:** R\
 **Date:** Q3 2020
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15q4qJSPd1PeJuafrIhvwyp1WDFsPAFdE?usp=sharing)
+
 #### **Basket-sensitive Random Walk & Factorization Machine Recommendations applied on Grocery Shopping**
 Build a Recommender system based on Collaborative Filtering and extending it with a Facotrization Machine incl. ALS, RW. Suggested an alternative evaluation metric on measuring the performance of Recommender Systems in general.\
 **Language:** R\
 **Date:** Q2 2019
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1o4ZtMsUxcq2MuWWfoEAc3jqgavUpuvF5?usp=sharing)
