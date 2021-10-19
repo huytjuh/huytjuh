@@ -12,42 +12,16 @@ An object detection model to predict person in indoor and hospital settings with
 ### Featured Projects 🏆
 
 #### **Incorporating Subsequence Time-Series Clustering in LSTM, lightGBM, RF, Fourier-ARIMA, and Hybrid models on daily TV ratings of American TV-channels**
-Extending the state-of-the-art Time-Series forecasting models by utilizing a data-driven anomaly detection and complex seasonality clustering approach using Self-Organizing Map and Hierarchical Clustering methods. Results showed significant improvements on the existing forecasting models based on a 1-year-ahead prediction of multiple time-series of over 10 TV-channels.\
+Extending the state-of-the-art Time-Series forecasting models by utilizing a data-driven anomaly detection and complex seasonality clustering approach using Self-Organizing Map and Hierarchical Clustering methods. Results showed significant improvements on the existing forecasting models based on a 1-year ahead prediction of multiple time-series of over 10 TV-channels.\
 **Language:** Python\
 **Date:** Q1 2021
 
-#### **General Framework of Incorporating Hybrid Time-Series Models combining both Parametric and Machine Learning Models**
-Created a general framework of how to 
-
-Incorporating Subsequence Time-Series Clustering in LSTM, lightGBM, RF, Fourier-ARIMA, and Hybrid models on daily TV ratings of American TV-channels**
-Extending the state-of-the-art Time-Series forecasting models by utilizing a data-driven anomaly detection and complex seasonality clustering approach using Self-Organizing Map and Hierarchical Clustering methods. Results showed significant improvements on the existing forecasting models based on a 1-year-ahead prediction of multiple time-series of over 10 TV-channels.\
+#### **Gaussian Mixture Models Clustering from scratch**
+Developed a Gaussian Mixture Model from scratch by generating samples from a mixture of Gaussian distribution, improving the existing Machine Learning clustering methods and allowing for more complex clustering.\
 **Language:** Python\
+**Date:** Q4 2020
+
+#### **General Framework of Constructing Hybrid Time-Series Models combining both Parametric and Machine Learning Models incl. RF, SVM, LSTM, (S)ARIMA**
+Created a general framework of how to construct hybrid models making full use of linear and non-linear models applied on a multiple time-series dataset. Key concepts such as outlier detection, correlation matrices and imputing missing datapoints are also discussed here.\
+**Language:** R\
 **Date:** Q3 2020
-
-
-
-An object detection model to predict person in indoor and hospital settings with a custom synthetically created dataset in Blender. An innovative solution to detect person instances without requiring actual person images by utilizing the state-of-the-art Bayesian CycleGAN to tackle down the common synthetic2real translation task.\
-**Language:** Python, Blender\
-**Date:** Q1 2021
-
-An object detection model to predict person in indoor and hospital settings with a custom synthetically created dataset in Blender. An innovative solution to detect person instances without requiring actual person images by utilizing the state-of-the-art Bayesian CycleGAN to tackle down the common synthetic2real translation task.\
-**Language:** Python, Blender\
-**Date:** Ongoing
-
-An object detection model to predict person in indoor and hospital settings with a custom synthetically created dataset in Blender. An innovative solution to detect person instances without requiring actual person images by utilizing the state-of-the-art Bayesian CycleGAN to tackle down the common synthetic2real translation task.\
-**Language:** Python, Blender\
-**Date:** Ongoing
-<!--
-**huytjuh/huytjuh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
