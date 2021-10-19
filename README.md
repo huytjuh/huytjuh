@@ -16,10 +16,8 @@ Extending the state-of-the-art Time-Series forecasting models by utilizing a dat
 **Language:** Python\
 **Date:** Q1 2021
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1G7eHPS_F_2TICnapSNndZfGNeMmosnBS?usp=sharing)]
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1HoakPmzY4mfLkGvgFNe9k6TqGgb43V7D?usp=sharing)]
-
-![Open In Colab](https://colab.research.google.com/drive/1G7eHPS_F_2TICnapSNndZfGNeMmosnBS?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)(https://colab.research.google.com/drive/1G7eHPS_F_2TICnapSNndZfGNeMmosnBS?usp=sharing)]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)(https://colab.research.google.com/drive/1HoakPmzY4mfLkGvgFNe9k6TqGgb43V7D?usp=sharing)]
 
 
 #### **Gaussian Mixture Model Clustering from scratch**
