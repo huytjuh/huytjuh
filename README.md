@@ -4,6 +4,8 @@ I am a Data Scientist with background in Econometrics and Operations Research. S
 
 ### Recent Projects
 
+## Vision-based Person Detection Model with YOLOv3 using Bayesian CycleGAN on Synthetic Data 
+
 ### Featured Projects
 
 <!--
