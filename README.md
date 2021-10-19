@@ -16,8 +16,8 @@ Extending the state-of-the-art Time-Series forecasting models by utilizing a dat
 **Language:** Python\
 **Date:** Q1 2021
 
-#### **Gaussian Mixture Models Clustering from scratch**
-Developed a Gaussian Mixture Model from scratch by generating samples from a mixture of Gaussian distribution, improving the existing Machine Learning clustering methods and allowing for more complex clustering.\
+#### **Gaussian Mixture Model Clustering from scratch**
+Developed an advanced Gaussian Mixture Model from scratch by generating samples from a mixture of Gaussian distribution, improving the existing Machine Learning clustering methods and allowing for more complex clustering.\
 **Language:** Python\
 **Date:** Q4 2020
 
@@ -25,3 +25,8 @@ Developed a Gaussian Mixture Model from scratch by generating samples from a mix
 Created a general framework of how to construct hybrid models making full use of linear and non-linear models applied on a multiple time-series dataset. Key concepts such as outlier detection, correlation matrices and imputing missing datapoints are also discussed here.\
 **Language:** R\
 **Date:** Q3 2020
+
+#### **Basket-sensitive Random Walk & Factorization Machine Recommendations applied on Grocery Shopping**
+Build a Recommender system based on Collaborative Filtering and extending it with a Facotrization Machine incl. ALS, RW. Suggested an alternative evaluation metric on measuring the performance of Recommender Systems in general.\
+**Language:** R\
+**Date:** Q2 2019
