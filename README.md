@@ -1,15 +1,14 @@
 ### About Me
 
 I am a Data Scientist with background in Econometrics and Operations Research. Specialized in Predictive Modeling, Causal Inference, and Optimization methods. Professional experience in all Machine Learning sub-discplines, including NLP, Computer Vision, and Recommender Systems. Committed to consistency and transparancy, dedicated to continuous improvements and excited for new challenges.
-
-### Recent Projects 💎
 _________________________________
+### Recent Projects 💎
 
 #### **Vision-based Person Detection Model with YOLOv3 using Bayesian CycleGAN on Synthetic Data**
 An object detection model to predict person in indoor and hospital settings with a custom synthetically created dataset in Blender. An innovative solution to detect person instances without requiring actual person images by utilizing the state-of-the-art Bayesian CycleGAN to tackle down the challenging Synthetic-to-Real translation task.\
 **Language:** Python, Blender\
 **Date:** Ongoing
-
+_________________________________
 ### Featured Projects 🏆
 
 #### **Incorporating Subsequence Time-Series Clustering in LSTM, lightGBM, RF, Fourier-ARIMA, and Hybrid models on daily TV ratings of American TV-channels**
