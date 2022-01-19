@@ -1,6 +1,6 @@
 ### About Me
 
-I am a Data Scientist with background in Econometrics and Operations Research. Specialized in Predictive Modeling, Causal Inference, and Optimization methods. Professional experience in all Machine Learning sub-discplines, including NLP, Computer Vision, and Recommender Systems. Committed to consistency and transparancy, dedicated to continuous improvements and excited for new challenges.
+I am Data Scientist with a background in Econometrics and Operations Research. Specialized in Predictive Modeling, Causal Inference, and Optimization methods. Professional experience in all Machine Learning sub-disciplines, including NLP, Computer Vision, and Recommender Systems. Committed to consistency and transparency, dedicated to continuous improvements, and excited for new challenges.
 _________________________________
 ### Recent Projects 💎
 
