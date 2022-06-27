@@ -7,7 +7,7 @@ _________________________________
 #### *Vision-based Person Detection Model with YOLOv3 using Bayesian CycleGAN on Synthetic Data*
 An object detection model to predict person in indoor and hospital settings with a custom synthetically created dataset in Blender. An innovative solution to detect person instances without requiring actual person images by utilizing the state-of-the-art Bayesian CycleGAN to tackle down the challenging Synthetic-to-Real translation task.\
 **Language:** Python, Blender\
-**Date:** Ongoing
+**Date:** Q1 2022
 _________________________________
 ### Featured Projects 🏆
 
